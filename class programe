@@ -1,0 +1,20 @@
+class patient;
+{
+    string name;
+    double height;
+    patient(string name,double height, ddouble weight)
+    {
+        name.name=name;
+        height.height=height;
+        weight.weight=weight;
+    }
+    double bmi()
+    {
+        double val=((weight)/(height*height))*703;
+                          return value
+    }
+        
+        
+    }
+}
+
