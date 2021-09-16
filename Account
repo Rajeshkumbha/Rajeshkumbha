@@ -1,0 +1,7 @@
+public static void main(String args[])
+{
+    Account acc=new Account();
+    acc.addBalance(1000);
+    acc.addBalance(acc.getBalance()*2);
+    System.out.println(acc.getBalance());
+}
