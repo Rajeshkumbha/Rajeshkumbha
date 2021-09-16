@@ -1,0 +1,18 @@
+class subcClass
+{
+  String msg="Hello welcome to classes";
+  void display()
+ {
+     System.out.println(msg);
+  }
+}
+class mainclass
+{
+    public static void main(String args[]) 
+    {
+        sub class sc=new subClass();
+        sc.display();
+    }
+    
+}
+ 
